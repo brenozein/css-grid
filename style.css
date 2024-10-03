@@ -123,12 +123,12 @@ header {
    
 }
 
-.footer .social-icons img:hover{
+.footer .social-icons img:hover {
     width: 30px;
     height: 30px;
-    border-radius: 50%; /* Ícones arredondados */
-    transition: width 2s, height 4s;
+    border-radius: 50%; /* Ícones arredondados */ 
 }
+
 
 .sidenav li{
     list-style: none;
